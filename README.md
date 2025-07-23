@@ -5,7 +5,7 @@ This repository presents a systematic comparative analysis of clustering algorit
 ## Project Structure
 | File Name                    | Description                                               |
 |-----------------------------|-----------------------------------------------------------|
-| `wine-output.csv`, `student_output.csv` and `Complex8.csv`         | 3 different real-world datasets for clustering analysis |
+| `wine_output.csv`, `student_output.csv` and `Complex8.csv`         | 3 different real-world datasets for clustering analysis |
 | `EDA.ipynb`         | Jupyter Notebook for preprocessing and Exploratory Data Analysis |
 | `clustering_student.ipynb` | Jupyter Notebook with detailed clustering analysis for the student performance dataset |
 | `clustering_wine.ipynb` | Jupyter Notebook with detailed clustering analysis for the wine quality dataset |
